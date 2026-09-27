@@ -8,3 +8,5 @@ else
 {
     Console.WriteLine($"Chao mung {name}!");
 }
+Console.WriteLine("Nhap mat khau cua ban: ");
+
