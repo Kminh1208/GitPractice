@@ -1,4 +1,4 @@
-Họ tên: Kiều Văn Minh
+Họ tên: Kiều Văn Minh /n
 MSV:24030859
 Lớp: ĐH24CT
 Trường : Đại học Bà Rịa- Vũng Tàu
